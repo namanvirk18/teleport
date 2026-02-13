@@ -8,6 +8,7 @@
     >
   </picture>
 </a>
+  
 # Secure AI agent deployment with identity-based access control
 
 <a href="https://goteleport.com/download">
