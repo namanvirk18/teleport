@@ -1,7 +1,7 @@
 <div align="center">
 <img
   alt="Teleport logo"
-  src="https://github.com/namanvirk18/teleport/raw/master/assets/teleport.png"
+  src="[https://github.com/namanvirk18/teleport/raw/master/assets/teleport.png](https://github.com/namanvirk18/teleport/blob/master/assets/teleport-short-logo.avif)"
   width="300"
   style="margin: 0; padding: 0; display: block; margin-left: auto; margin-right: auto;"
 >
