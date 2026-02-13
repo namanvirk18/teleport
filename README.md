@@ -4,12 +4,12 @@
     <img
       alt="Teleport logo"
       src="https://github.com/namanvirk18/teleport/blob/master/assets/teleport-removebg-preview.png"
-      width="200"
+      width="300"
     >
   </picture>
 </a>
   
-# Secure AI agent deployment with identity-based access control
+## Secure AI agent deployment with identity-based access control
 
 <a href="https://goteleport.com/download">
   <img src="https://img.shields.io/github/v/release/gravitational/teleport?sort=semver&label=Release&color=651FFF" />
