@@ -26,6 +26,6 @@
 
 <p style="max-width: 900px; margin: 20px auto; text-align: left; font-size: 1.2em;">Open-source framework that gives each AI agent its own identity, controls real-time access, and tracks every action across your infrastructure.</p>
 
-<img src="https://github.com/namanvirk18/teleport/raw/master/assets/Teleport-gif.gif" alt="Teleport Demo" width="880">
+<img src="https://github.com/namanvirk18/teleport/raw/master/assets/Teleport-gif.gif" alt="Teleport Demo" width="900">
 
 </div>
