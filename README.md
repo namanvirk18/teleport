@@ -2,7 +2,7 @@
 <img
   alt="Teleport logo"
   src="https://github.com/namanvirk18/teleport/blob/master/assets/teleport-latest.png"
-  width="100"
+  width="150"
   style="margin: 0; padding: 0; display: block; margin-left: auto; margin-right: auto;"
 >
   
