@@ -1,15 +1,10 @@
 <div align="center">
-<a href="https://goteleport.com/download" style="display: inline-block; margin-bottom: 0;">
-  <picture>
-    <img
-      alt="Teleport logo"
-      src="https://github.com/namanvirk18/teleport/raw/master/assets/teleport.png"
-      width="300"
-      style="display: block; margin: 0;"
-    >
-  </picture>
-</a>
-  
+<img
+  alt="Teleport logo"
+  src="https://github.com/namanvirk18/teleport/raw/master/assets/teleport.png"
+  width="300"
+  style="margin: 0; padding: 0; display: block; margin-left: auto; margin-right: auto;"
+>
 ## Secure AI agent deployment with identity-based access control
 
 <a href="https://goteleport.com/download">
