@@ -8,7 +8,6 @@
     >
   </picture>
 </a>
-
 # Secure AI agent deployment with identity-based access control
 
 <a href="https://goteleport.com/download">
@@ -24,7 +23,7 @@
   <img src="https://img.shields.io/badge/AGPL-3.0-red.svg" />
 </a>
 
-<p style="max-width: 900px; margin: 20px auto; text-align: left;">Open-source framework that gives each AI agent its own identity, controls real-time access, and tracks every action across your infrastructure.</p>
+## Open-source framework that gives each AI agent its own identity, controls real-time access, and tracks every action across your infrastructure.
 
 <img src="https://github.com/namanvirk18/teleport/raw/master/assets/Teleport-gif.gif" alt="Teleport Demo">
 
